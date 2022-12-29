@@ -1,5 +1,7 @@
-[![MasterHead]( https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://devarshi009.github.io)
 <h1 align="center">Hi 👋, I'm Devarshi Ojha</h1>
+[![MasterHead]( https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966)](https://devarshi009.github.io)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=hi+!+My+self+Devarshi+Ojha;I+am+Full+Stack+web+Developer;interested+in+coding....;curious+to+learn+new+thing+anytime+!)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=devarshi009&label=Profile%20views&color=0e75b6&style=flat" alt="devarshi009" /> </p>
