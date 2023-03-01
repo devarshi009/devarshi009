@@ -20,7 +20,7 @@
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
 
 
-📧 Email - devarshiojha123@gmail.com
+📧 Email - <a href="mailto: devarshiojha123@gmail.com">devarshiojha123@gmail.com</a>
 <br/>
 <br/>
 <a href="https://github.com/devarshi009"><img src="https://camo.githubusercontent.com/eed4766a8cd54afccc2c6adfde566a3bbfc1860e8c36abe7f1ded64bc15696c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"></a>
