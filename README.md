@@ -20,7 +20,7 @@
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
 
 
-📧 Email - <a href="mailto: devarshiojha123@gmail.com">devarshiojha123@gmail.com</a>
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devarshiojha123@gmail.com)
 <br/>
 <br/>
 <a href="https://github.com/devarshi009"><img src="https://camo.githubusercontent.com/eed4766a8cd54afccc2c6adfde566a3bbfc1860e8c36abe7f1ded64bc15696c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"></a>
@@ -67,10 +67,10 @@
 
 # 📊 GitHub Stats
 
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devarshi009&" alt="devarshi" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devarshi009&theme=dark" alt="devarshi" /></p>
 
    
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devarshi009&show_icons=true&locale=en&layout=compact" alt="devarshi" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devarshi009&show_icons=true&locale=en" alt="devarshi" /></p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devarshi009&theme=dark&show_icons=true&locale=en&layout=compact" alt="devarshi" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devarshi009&show_icons=true&locale=en&theme=dark" alt="devarshi" /></p>
 
   
